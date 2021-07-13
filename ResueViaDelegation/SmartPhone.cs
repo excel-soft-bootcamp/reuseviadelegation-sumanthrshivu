@@ -22,7 +22,7 @@ namespace ResueViaDelegation
         }
         public void TakePicture()
         {
-
+            this._cameraRef.Click();
         }
         public void Hangup()
         {
